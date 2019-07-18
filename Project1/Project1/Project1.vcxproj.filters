@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="project1.cpp">
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HDU - 1811.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
